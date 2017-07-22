@@ -1,0 +1,15 @@
+
+State Machine - |top_level|controller:CONTROLLER|curr_state
+Name curr_state.POST_LD curr_state.LDAA_END curr_state.LDAA5 curr_state.LDAA4 curr_state.LDAA3 curr_state.LDAA2 curr_state.LDAA1 curr_state.LDAA0 curr_state.LDAI curr_state.decode curr_state.fetch curr_state.init 
+curr_state.init 0 0 0 0 0 0 0 0 0 0 0 0 
+curr_state.fetch 0 0 0 0 0 0 0 0 0 0 1 1 
+curr_state.decode 0 0 0 0 0 0 0 0 0 1 0 1 
+curr_state.LDAI 0 0 0 0 0 0 0 0 1 0 0 1 
+curr_state.LDAA0 0 0 0 0 0 0 0 1 0 0 0 1 
+curr_state.LDAA1 0 0 0 0 0 0 1 0 0 0 0 1 
+curr_state.LDAA2 0 0 0 0 0 1 0 0 0 0 0 1 
+curr_state.LDAA3 0 0 0 0 1 0 0 0 0 0 0 1 
+curr_state.LDAA4 0 0 0 1 0 0 0 0 0 0 0 1 
+curr_state.LDAA5 0 0 1 0 0 0 0 0 0 0 0 1 
+curr_state.LDAA_END 0 1 0 0 0 0 0 0 0 0 0 1 
+curr_state.POST_LD 1 0 0 0 0 0 0 0 0 0 0 1 

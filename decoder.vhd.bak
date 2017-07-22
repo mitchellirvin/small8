@@ -1,0 +1,32 @@
+--Mitchell Irvin
+--Small8
+--Section: 1525
+--Small8 Decoder
+
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+
+entity decoder is
+	port(
+		RD_in, WR_in : in std_logic; 
+		addr_bus : in std_logic_vector(15 downto 0); 
+		RD_out, WR_out : out std_logic
+	);
+end decoder;
+
+
+architecture bhv of decoder is
+	signal en : std_logic; 
+begin
+	if(addr_bus = x"FFFF") then
+		en <= '1'; 
+	elsif(addr_bus = x"FFFE") then
+		en <= '1'; 
+	else 
+		en <= '0'; 
+	end if; 
+	RD_out <= en AND RD_in;
+	WR_out <= en AND RD_out; 
+
+end bhv; 

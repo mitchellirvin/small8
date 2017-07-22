@@ -1,0 +1,21 @@
+--Mitchell Irvin
+--Small8
+--Section: 1525
+--Small8 ALU
+
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+
+entity ALU is 
+
+end entity; 
+
+
+architecture bhv of ALU is 
+
+
+begin
+
+
+end bhv; 

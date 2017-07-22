@@ -1,0 +1,43 @@
+--Mitchell Irvin
+--Small8
+--Section: 1525
+--mult component 
+
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+
+entity mult is
+	port(
+		clk, rst, A_ld, D_ld : in std_logic;
+		input : in std_logic_vector(7 downto 0);
+		product_H, product_L : out std_logic_vector(7 downto 0)
+	);
+end mult;
+	
+architecture bhv of mult is
+begin
+	process(clk, rst)
+	
+	variable temp_mult : std_logic_vector(15 downto 0);
+	variable A : unsigned(7 downto 0);
+	variable D : unsigned(7 downto 0);
+	
+	begin
+		if(rst = '1') then
+			temp_mult := (others => '0');
+			A := (others => '0');
+			D := (others => '0');
+		elsif(rising_edge(clk)) then
+			if(ld_A = '1') then
+				A := unsigned(input);
+			elsif(ld_D = '1') then
+				D := unsigned(input);
+			end if;
+			temp_mult := std_logic_vector(A * D);
+			mult_H <= temp_mult(15 downto 8);
+			mult_L <= temp_mult(7 downto 0);
+		end if;
+	end process;
+end bhv;	
+	

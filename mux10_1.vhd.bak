@@ -1,0 +1,50 @@
+--Mitchell Irvin
+--Small8
+--Section: 1525
+--10 to 1 MUX for internal data bus
+
+
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity mux10_1 is
+	generic(
+		width : positive := 8
+	);
+	port(
+		input1,input2,input3,input4,input5,input6,input7,input8,input9,input10 : in std_logic_vector(width-1 downto 0);
+		sel : in std_logic_vector(3 downto 0);
+		output : out std_logic_vector(width-1 downto 0)
+	);
+end mux10_1;
+
+architecture bhv of mux10_1 is
+begin
+	process(input1,input2,input3,input4,input5,input6,input7,input8,input9,input10)
+	begin
+		case sel is
+			when "0000" =>
+				output <= input1;
+			when "0001" =>
+				output <= input2;
+			when "0010" =>
+				output <= input3;
+			when "0011" =>
+				output <= input4;
+			when "0100" =>
+				output <= input5;
+			when "0101" =>
+				output <= input6;
+			when "0110" =>
+				output <= input7;
+			when "0111" =>
+				output <= input8;
+			when "1000" =>
+				output <= input9;
+			when "1001" =>
+				output <= input10;
+			when others => null;
+		end case;
+	end process;
+end bhv;
+	

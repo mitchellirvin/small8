@@ -1,0 +1,253 @@
+{C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/top_level.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/top_level.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity top_level
+-- Compiling architecture str of top_level
+-- Loading entity controller
+-- Loading entity datapath
+-- Loading entity decoder
+-- Loading package altera_mf_components
+-- Loading entity ram0
+
+} {} {}} {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/reg8_tristate_tb.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/reg8_tristate_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity reg8tristate_tb
+-- Compiling architecture TB of reg8tristate_tb
+-- Loading entity reg8tristate
+
+} {} {}} {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/controller.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/controller.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity controller
+-- Compiling architecture str of controller
+
+} {} {}} {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/tristate_tb.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/tristate_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tristate_tb
+-- Compiling architecture TB of tristate_tb
+-- Loading package NUMERIC_STD
+-- Loading entity tristate
+
+} {} {}} {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/decoder.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/decoder.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity decoder
+-- Compiling architecture bhv of decoder
+
+} {} {}} {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/datapath.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/datapath.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity datapath
+-- Compiling architecture str of datapath
+-- Loading entity reg8
+-- Loading entity mux10_1
+-- Loading entity ext_db_mux
+-- Loading entity mult
+-- Loading entity tristate
+-- Loading entity mux3_1
+-- Loading entity counter
+-- Loading entity add8to16
+-- Loading entity ALU
+-- Loading entity mux4_1
+-- Loading entity reg
+
+} {} {}} {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/ext_db_mux.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/ext_db_mux.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ext_db_mux
+-- Compiling architecture bhv of ext_db_mux
+
+} {} {}} {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/tristate.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/tristate.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity tristate
+-- Compiling architecture bhv of tristate
+
+} {} {}} {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/ram0.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/ram0.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package altera_mf_components
+-- Compiling entity ram0
+-- Compiling architecture SYN of ram0
+
+} {} {}} {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/counter.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/counter.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity counter
+-- Compiling architecture bhv of counter
+
+} {} {}} {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/simulation/modelsim/Small8.vho} {1 {vcom -work work -2002 -explicit {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/simulation/modelsim/Small8.vho}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package VITAL_Timing
+-- Loading package VITAL_Primitives
+-- Loading package dffeas_pack
+-- Loading package altera_primitives_components
+-- Loading package cycloneiii_atom_pack
+-- Loading package cycloneiii_components
+-- Compiling entity top_level
+-- Compiling architecture structure of top_level
+
+} {} {}} {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/decoder7seg_tb.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/decoder7seg_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity decoder7seg_tb
+-- Compiling architecture behavior of decoder7seg_tb
+-- Loading entity decoder7seg
+
+} {} {}} {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/alu.vhd} {1 {vcom -work work -2002 -explicit {C:\Users\Mitch\Classes\Fall 2016\EEL 4712_Digital Design\Small8\alu.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ALU
+-- Compiling architecture bhv of ALU
+
+} {} {}} {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/mult.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/mult.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity mult
+-- Compiling architecture bhv of mult
+
+} {} {}} {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/reg8_tb.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/reg8_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity reg8_tb
+-- Compiling architecture TB of reg8_tb
+-- Loading entity reg8
+
+} {} {}} {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/mux10_1.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/mux10_1.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux10_1
+-- Compiling architecture bhv of mux10_1
+
+} {} {}} {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/add8to16.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/add8to16.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity add8to16
+-- Compiling architecture bhv of add8to16
+
+} {} {}} {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/datapath_tb.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/datapath_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity datapath_tb
+-- Compiling architecture tb of datapath_tb
+
+} {} {}} {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/decoder7seg.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/decoder7seg.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity decoder7seg
+-- Compiling architecture BHV of decoder7seg
+
+} {} {}} {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/reg8_tristate.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/reg8_tristate.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity reg8tristate
+-- Compiling architecture bhv of reg8tristate
+
+} {} {}} {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/mux3_1.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/mux3_1.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity mux3_1
+-- Compiling architecture bhv of mux3_1
+
+} {} {}} {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/reg8.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/reg8.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity reg8
+-- Compiling architecture bhv of reg8
+
+} {} {}} {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/reg.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/reg.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity reg
+-- Compiling architecture BHV of reg
+
+} {} {}} {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/mux4_1.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/mux4_1.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux4_1
+-- Compiling architecture BHV of mux4_1
+
+} {} {}} {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/top_level_tb.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/top_level_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity top_level_tb
+-- Compiling architecture tb of top_level_tb
+-- Loading entity controller
+-- Loading entity datapath
+-- Loading entity decoder
+-- Loading package altera_mf_components
+-- Loading entity ram0
+
+} {} {}}

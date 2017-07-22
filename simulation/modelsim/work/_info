@@ -1,0 +1,941 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\Mitch\Classes\Fall 2016\EEL 4712_Digital Design\Lab 6\simulation\modelsim
+Eadd8to16
+Z0 w1480356044
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\Mitch\Classes\Fall 2016\EEL 4712_Digital Design\Small8\simulation\modelsim
+Z5 8C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/add8to16.vhd
+Z6 FC:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/add8to16.vhd
+l0
+L10
+VOzEcJ25<DOKFI:]mD^3`m3
+Z7 OV;C;10.1d;51
+32
+Z8 !s108 1480459026.911000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/add8to16.vhd|
+Z10 !s107 C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/add8to16.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+!s100 TM[Pzo8K4O23`37CWQZh:1
+!i10b 1
+Abhv
+R1
+R2
+R3
+Z13 DEx4 work 8 add8to16 0 22 OzEcJ25<DOKFI:]mD^3`m3
+l20
+L18
+Vcfc@LL3EnN3dMEebB@WzI1
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!s100 =kF0YkD4iZGKO0aefW<dl3
+!i10b 1
+Ealu
+Z14 w1480458996
+R1
+R2
+R3
+R4
+Z15 8C:\Users\Mitch\Classes\Fall 2016\EEL 4712_Digital Design\Small8\alu.vhd
+Z16 FC:\Users\Mitch\Classes\Fall 2016\EEL 4712_Digital Design\Small8\alu.vhd
+l0
+L10
+ViOB8Zh=;][c8cTSgV8EDS0
+R7
+32
+Z17 !s108 1480459027.036000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\Mitch\Classes\Fall 2016\EEL 4712_Digital Design\Small8\alu.vhd|
+Z19 !s107 C:\Users\Mitch\Classes\Fall 2016\EEL 4712_Digital Design\Small8\alu.vhd|
+R11
+R12
+!s100 _9F4YHdgO4oHH2U7b8Mb@0
+!i10b 1
+Abhv
+R1
+R2
+R3
+Z20 DEx4 work 3 alu 0 22 iOB8Zh=;][c8cTSgV8EDS0
+l26
+L24
+V:1nBR_78c]0VM94IT;FaO2
+R7
+32
+R17
+R18
+R19
+R11
+R12
+!s100 lkOccdT^d1:fXI_VBlRfJ3
+!i10b 1
+Econtroller
+Z21 w1480455186
+R1
+R2
+R3
+R4
+Z22 8C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/controller.vhd
+Z23 FC:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/controller.vhd
+l0
+L10
+V]gk9JYSkG5Vmgla@3zfo80
+R7
+32
+Z24 !s108 1480459027.301000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/controller.vhd|
+Z26 !s107 C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/controller.vhd|
+R11
+R12
+!s100 Me9oEN?iRK[leKB9S_P[o2
+!i10b 1
+Astr
+R1
+R2
+R3
+Z27 DEx4 work 10 controller 0 22 ]gk9JYSkG5Vmgla@3zfo80
+l50
+L39
+V?QjQdjG2U1f]BUQNhSaI81
+R7
+32
+R24
+R25
+R26
+R11
+R12
+!s100 nTc06LX?`K=A2I2kF]SSO1
+!i10b 1
+Ecounter
+Z28 w1480354823
+R1
+R2
+R3
+R4
+Z29 8C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/counter.vhd
+Z30 FC:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/counter.vhd
+l0
+L10
+V57^hXG7z0:RQ=ETY`6LgD2
+R7
+32
+Z31 !s108 1480459027.442000
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/counter.vhd|
+Z33 !s107 C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/counter.vhd|
+R11
+R12
+!s100 =VTU6HbdFZPcV[h2glME41
+!i10b 1
+Abhv
+R1
+R2
+R3
+Z34 DEx4 work 7 counter 0 22 57^hXG7z0:RQ=ETY`6LgD2
+l22
+L19
+VW67VElhlZl@`U^BM^kU:^3
+R7
+32
+R31
+R32
+R33
+R11
+R12
+!s100 KnS90[bk;773_C]iIiW883
+!i10b 1
+Edatapath
+Z35 w1480454356
+R1
+R2
+R3
+R4
+Z36 8C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/datapath.vhd
+Z37 FC:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/datapath.vhd
+l0
+L10
+V1feVERhIE5I96]XE@9A^Y2
+R7
+32
+Z38 !s108 1480459027.676000
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/datapath.vhd|
+Z40 !s107 C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/datapath.vhd|
+R11
+R12
+!s100 gDNQ;AAJdfPm_l]<_03l13
+!i10b 1
+Astr
+Z41 DEx4 work 3 reg 0 22 IfSaI8no0;TOl?l1UQjO51
+Z42 DEx4 work 6 mux4_1 0 22 Ff8GQVP^:c_C7bG>nUohE3
+R20
+R13
+R34
+Z43 DEx4 work 6 mux3_1 0 22 O>OEFHiO>QOLC]kR3m3W50
+Z44 DEx4 work 8 tristate 0 22 b0XgYahfXo>]W04zof_[M2
+Z45 DEx4 work 4 mult 0 22 WI1lzh_Gn3L`<]>;Jl_k?0
+Z46 DEx4 work 10 ext_db_mux 0 22 N4WO^<ZzkT74Bj0;OfOc23
+Z47 DEx4 work 7 mux10_1 0 22 9@Gd@MG_`JXX6@9P3AR6V1
+Z48 DEx4 work 4 reg8 0 22 ClD[z=hoCT57hNLjL_hKn1
+R1
+R2
+R3
+Z49 DEx4 work 8 datapath 0 22 1feVERhIE5I96]XE@9A^Y2
+l75
+L53
+V@^aPBG;DWKWk_B3SQWk071
+R7
+32
+R38
+R39
+R40
+R11
+R12
+!s100 Y^BLI=6gUdOj2IM;>I0_E3
+!i10b 1
+Edatapath_tb
+Z50 w1480291725
+R1
+R2
+R3
+R4
+Z51 8C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/datapath_tb.vhd
+Z52 FC:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/datapath_tb.vhd
+l0
+L10
+VkTfcKUzB;F3bOS]g`AD5_3
+R7
+32
+Z53 !s108 1480459027.832000
+Z54 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/datapath_tb.vhd|
+Z55 !s107 C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/datapath_tb.vhd|
+R11
+R12
+!s100 XLWmc5Dg`TJPLmRn=09ZG3
+!i10b 1
+Atb
+R1
+R2
+R3
+DEx4 work 11 datapath_tb 0 22 kTfcKUzB;F3bOS]g`AD5_3
+l14
+L13
+Vma`=eo6:BGUe1:>6fVO;f2
+R7
+32
+R53
+R54
+R55
+R11
+R12
+!s100 MQD]gISGd=Fl6IW8<5DA40
+!i10b 1
+Edecoder
+Z56 w1480456778
+R1
+R2
+R3
+R4
+Z57 8C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/decoder.vhd
+Z58 FC:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/decoder.vhd
+l0
+L10
+VDi_8k<1GYj:@TJQZg^c5n3
+R7
+32
+Z59 !s108 1480459027.972000
+Z60 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/decoder.vhd|
+Z61 !s107 C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/decoder.vhd|
+R11
+R12
+!s100 K[L?F>WXjSaYj0LkzndF@2
+!i10b 1
+Abhv
+R1
+R2
+R3
+Z62 DEx4 work 7 decoder 0 22 Di_8k<1GYj:@TJQZg^c5n3
+l24
+L20
+VLkl90;lbJZId257eMgC4c3
+R7
+32
+R59
+R60
+R61
+R11
+R12
+!s100 OGhhQeo[EB]E?TQ@i28@83
+!i10b 1
+Edecoder7seg
+Z63 w1480203886
+R2
+R3
+R4
+Z64 8C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/decoder7seg.vhd
+Z65 FC:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/decoder7seg.vhd
+l0
+L8
+V5TGHZcOcV@cZHDSkTSTDW3
+R7
+32
+Z66 !s108 1480459028.502000
+Z67 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/decoder7seg.vhd|
+Z68 !s107 C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/decoder7seg.vhd|
+R11
+R12
+!s100 _iJd<4^fco2]eBmA=MUIo1
+!i10b 1
+Abhv
+R2
+R3
+Z69 DEx4 work 11 decoder7seg 0 22 5TGHZcOcV@cZHDSkTSTDW3
+l14
+L13
+VI4ejH:GXagIi>4=`NGU7N3
+R7
+32
+R66
+R67
+R68
+R11
+R12
+!s100 j;MG[hQe;22NZ4f:S3e]L0
+!i10b 1
+Edecoder7seg_tb
+Z70 w1480203898
+R1
+R2
+R3
+R4
+Z71 8C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/decoder7seg_tb.vhd
+Z72 FC:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/decoder7seg_tb.vhd
+l0
+L5
+Vn9k8:b4>cMU7DgQ0jM7oc2
+R7
+32
+Z73 !s108 1480459028.627000
+Z74 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/decoder7seg_tb.vhd|
+Z75 !s107 C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/decoder7seg_tb.vhd|
+R11
+R12
+!s100 N@OWO^QDHFZ[TKhmUMlNP1
+!i10b 1
+Abehavior
+R69
+R1
+R2
+R3
+DEx4 work 14 decoder7seg_tb 0 22 n9k8:b4>cMU7DgQ0jM7oc2
+l20
+L8
+VD;B9XjC88oX3A1ZF5h2_M1
+R7
+32
+R73
+R74
+R75
+R11
+R12
+!s100 6`e2omzfc4R0mlA>XQD6Q2
+!i10b 1
+Eext_db_mux
+Z76 w1480358554
+R1
+R2
+R3
+R4
+Z77 8C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/ext_db_mux.vhd
+Z78 FC:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/ext_db_mux.vhd
+l0
+L10
+VN4WO^<ZzkT74Bj0;OfOc23
+R7
+32
+Z79 !s108 1480459028.752000
+Z80 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/ext_db_mux.vhd|
+Z81 !s107 C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/ext_db_mux.vhd|
+R11
+R12
+!s100 Z_MhW[jIojfaXzk`AKHom3
+!i10b 1
+Abhv
+R1
+R2
+R3
+R46
+l19
+L18
+Va4R?N>H8hd`>h^?JYC6Eb1
+R7
+32
+R79
+R80
+R81
+R11
+R12
+!s100 6``afkV79]L<XQhX=fMBG3
+!i10b 1
+Emult
+Z82 w1480360528
+R1
+R2
+R3
+R4
+Z83 8C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/mult.vhd
+Z84 FC:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/mult.vhd
+l0
+L10
+VWI1lzh_Gn3L`<]>;Jl_k?0
+R7
+32
+Z85 !s108 1480459028.877000
+Z86 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/mult.vhd|
+Z87 !s107 C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/mult.vhd|
+R11
+R12
+!s100 @6IhS^o]Dc7SSeUTWGAX83
+!i10b 1
+Abhv
+R1
+R2
+R3
+R45
+l20
+L18
+VQ^mRj;Cn1GYlgXjXhI;NC0
+R7
+32
+R85
+R86
+R87
+R11
+R12
+!s100 jFhO4fKSZ1HV]ObeJ]cFN1
+!i10b 1
+Emux10_1
+Z88 w1480361351
+R2
+R3
+R4
+Z89 8C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/mux10_1.vhd
+Z90 FC:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/mux10_1.vhd
+l0
+L9
+V9@Gd@MG_`JXX6@9P3AR6V1
+R7
+32
+Z91 !s108 1480459029.594000
+Z92 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/mux10_1.vhd|
+Z93 !s107 C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/mux10_1.vhd|
+R11
+R12
+!s100 ]dQSlniSa^e;;CObZYhYP2
+!i10b 1
+Abhv
+R2
+R3
+R47
+l21
+L20
+VTo=EBiN4<=CQmcS1iJmDk0
+R7
+32
+R91
+R92
+R93
+R11
+R12
+!s100 hEez7m^VhQ=];<KQPKQY>1
+!i10b 1
+Emux3_1
+Z94 w1480360956
+R1
+R2
+R3
+R4
+Z95 8C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/mux3_1.vhd
+Z96 FC:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/mux3_1.vhd
+l0
+L10
+VO>OEFHiO>QOLC]kR3m3W50
+R7
+32
+Z97 !s108 1480459029.126000
+Z98 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/mux3_1.vhd|
+Z99 !s107 C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/mux3_1.vhd|
+R11
+R12
+!s100 kkGaSIR_2n=3c@eXnA7@91
+!i10b 1
+Abhv
+R1
+R2
+R3
+R43
+l19
+L18
+V3fW[aSRD<oIXGm;^646a?0
+R7
+32
+R97
+R98
+R99
+R11
+R12
+!s100 o?lcMLPhXeTVL_e`@GRMK3
+!i10b 1
+Emux4_1
+Z100 w1480361003
+R2
+R3
+R4
+Z101 8C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/mux4_1.vhd
+Z102 FC:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/mux4_1.vhd
+l0
+L9
+VFf8GQVP^:c_C7bG>nUohE3
+R7
+32
+Z103 !s108 1480459029.454000
+Z104 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/mux4_1.vhd|
+Z105 !s107 C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/mux4_1.vhd|
+R11
+R12
+!s100 on[FznkW9O4[R9ES=JiVD0
+!i10b 1
+Abhv
+R2
+R3
+R42
+l17
+L16
+VMF5NG[7S7E[NDCMn`0Z:m1
+R7
+32
+R103
+R104
+R105
+R11
+R12
+!s100 Q48EZ^BTbmBH:=dEhea7C1
+!i10b 1
+Eram0
+Z106 w1480377110
+Z107 DPx9 altera_mf 20 altera_mf_components 0 22 zh;bE09gCIPDVLK?MN49L3
+R2
+R3
+R4
+Z108 8C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/ram0.vhd
+Z109 FC:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/ram0.vhd
+l0
+L42
+VgjLNYh0^;YoZEMmoPnI@A2
+R7
+32
+Z110 !s108 1480459029.719000
+Z111 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/ram0.vhd|
+Z112 !s107 C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/ram0.vhd|
+R11
+R12
+!s100 [CJSmVe=d`a7geDc>1<[10
+!i10b 1
+Asyn
+R107
+R2
+R3
+Z113 DEx4 work 4 ram0 0 22 gjLNYh0^;YoZEMmoPnI@A2
+l59
+L55
+V74JMf`gm:B=cImZ<Ub3>T1
+R7
+32
+R110
+R111
+R112
+R11
+R12
+!s100 ;3>1L<mZg7hd9GOa?=GI00
+!i10b 1
+Ereg
+Z114 w1480267729
+R1
+R2
+R3
+R4
+Z115 8C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/reg.vhd
+Z116 FC:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/reg.vhd
+l0
+L10
+VIfSaI8no0;TOl?l1UQjO51
+R7
+32
+Z117 !s108 1480459029.860000
+Z118 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/reg.vhd|
+Z119 !s107 C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/reg.vhd|
+R11
+R12
+!s100 ^]z=B1W7RfNTY7;7khNOE1
+!i10b 1
+Abhv
+R1
+R2
+R3
+R41
+l19
+L18
+V7YS];Nk^Kcj`1ha<5=Me51
+R7
+32
+R117
+R118
+R119
+R11
+R12
+!s100 =IgN;AmQnH=zkOzOYOzM_1
+!i10b 1
+Ereg8
+Z120 w1480293626
+R1
+R2
+R3
+R4
+Z121 8C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/reg8.vhd
+Z122 FC:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/reg8.vhd
+l0
+L11
+VClD[z=hoCT57hNLjL_hKn1
+R7
+32
+Z123 !s108 1480459029.984000
+Z124 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/reg8.vhd|
+Z125 !s107 C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/reg8.vhd|
+R11
+R12
+!s100 2U]>69]4OJ6BX@jh?E51P3
+!i10b 1
+Abhv
+R1
+R2
+R3
+R48
+l22
+L21
+VSCaSUdh@6=KDII4:iLgIh1
+R7
+32
+R123
+R124
+R125
+R11
+R12
+!s100 ^zjnF68LHUSKmCFke^Y^J3
+!i10b 1
+Ereg8_tb
+Z126 w1480291809
+R1
+R2
+R3
+R4
+Z127 8C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/reg8_tb.vhd
+Z128 FC:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/reg8_tb.vhd
+l0
+L5
+V7A`BmdFzNB79QKFHlI27<1
+R7
+32
+Z129 !s108 1480459030.109000
+Z130 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/reg8_tb.vhd|
+Z131 !s107 C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/reg8_tb.vhd|
+R11
+R12
+!s100 ike5kDo1UTmG?`GDf7_9L3
+!i10b 1
+Atb
+R48
+R1
+R2
+R3
+DEx4 work 7 reg8_tb 0 22 7A`BmdFzNB79QKFHlI27<1
+l13
+L8
+VK]QTdkBX`K]MgW:zXJMRD2
+R7
+32
+R129
+R130
+R131
+R11
+R12
+!s100 YPcX^J:flKch2X;h0O_9c0
+!i10b 1
+Ereg8tristate
+Z132 w1480203797
+R1
+R2
+R3
+R4
+Z133 8C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/reg8_tristate.vhd
+Z134 FC:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/reg8_tristate.vhd
+l0
+L11
+VCDocimm8k?Z6=MSjDE@f<3
+R7
+32
+Z135 !s108 1480459030.390000
+Z136 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/reg8_tristate.vhd|
+Z137 !s107 C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/reg8_tristate.vhd|
+R11
+R12
+!s100 i^0HzELJJh0g:IHi]BAVT2
+!i10b 1
+Abhv
+R1
+R2
+R3
+Z138 DEx4 work 12 reg8tristate 0 22 CDocimm8k?Z6=MSjDE@f<3
+l22
+L21
+VHa5]4fJl>_iILmGSh=GN=3
+R7
+32
+R135
+R136
+R137
+R11
+R12
+!s100 b47Ti1:m`Y;9J_=e2C>=70
+!i10b 1
+Ereg8tristate_tb
+Z139 w1480203814
+R1
+R2
+R3
+R4
+Z140 8C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/reg8_tristate_tb.vhd
+Z141 FC:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/reg8_tristate_tb.vhd
+l0
+L5
+VhNC]Y]ePjeLz3KlG@ZjoR1
+R7
+32
+Z142 !s108 1480459030.562000
+Z143 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/reg8_tristate_tb.vhd|
+Z144 !s107 C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/reg8_tristate_tb.vhd|
+R11
+R12
+!s100 fooYMESNnIl?5P?jVQFjo0
+!i10b 1
+Atb
+R138
+R1
+R2
+R3
+DEx4 work 15 reg8tristate_tb 0 22 hNC]Y]ePjeLz3KlG@ZjoR1
+l13
+L8
+VXeQQVdFQ?e_NN61fDaHiM1
+R7
+32
+R142
+R143
+R144
+R11
+R12
+!s100 f`A60oF4:IgcTN6D[0HSe2
+!i10b 1
+Etop_level
+Z145 w1480459291
+Z146 DPx10 cycloneiii 20 cycloneiii_atom_pack 0 22 ]RlG5R]Q[aFAe9T5<XI<o1
+Z147 DPx10 cycloneiii 21 cycloneiii_components 0 22 czVkNK5?8i<HPTLVSV_3a2
+Z148 DPx4 ieee 16 vital_primitives 0 22 9W@YP9_VCb?_GCJ8e:;YQ0
+Z149 DPx6 altera 11 dffeas_pack 0 22 oY7WPe2I:Taj0>HV`A`AH0
+Z150 DPx4 ieee 12 vital_timing 0 22 7h8zz2S4HVg:a;2TBMI[j1
+R2
+R3
+Z151 DPx6 altera 28 altera_primitives_components 0 22 H[E=U;zSVlD;ca@gnkzIO0
+R4
+Z152 8C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/simulation/modelsim/Small8.vho
+Z153 FC:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/simulation/modelsim/Small8.vho
+l0
+L36
+VTM<He?:NT?SMHYFdLh`P]2
+!s100 fLfYbB`_JgzSbLG8O55nf2
+R7
+32
+!i10b 1
+Z154 !s108 1480459299.392000
+Z155 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/simulation/modelsim/Small8.vho|
+Z156 !s107 C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/simulation/modelsim/Small8.vho|
+R11
+R12
+Astructure
+R146
+R147
+R148
+R149
+R150
+R2
+R3
+R151
+DEx4 work 9 top_level 0 22 TM<He?:NT?SMHYFdLh`P]2
+l449
+L100
+V1IWILMEUY@oi15GmlO<O_0
+!s100 58L50W<oQgNNgHH39Vlam3
+R7
+32
+!i10b 1
+R154
+R155
+R156
+R11
+R12
+Astr
+R107
+R113
+R62
+R49
+R27
+R1
+R2
+R3
+DEx4 work 9 top_level 0 22 WijUmcWUFI`5CF8Ui0oJP2
+l56
+L23
+V0XcZ:H7Cid2CGI]n[oo]^2
+R7
+32
+!s108 1480459030.780000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/top_level.vhd|
+!s107 C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/top_level.vhd|
+R11
+R12
+FC:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/top_level.vhd
+w1480457502
+8C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/top_level.vhd
+!s100 mzAM?cTNVF^NNADHJ1[P30
+!i10b 1
+Etop_level_tb
+Z157 w1480458675
+R1
+R2
+R3
+R4
+Z158 8C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/top_level_tb.vhd
+Z159 FC:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/top_level_tb.vhd
+l0
+L10
+Vzon9KJB^mHFI^[lKn^dES3
+R7
+32
+Z160 !s108 1480459031.248000
+Z161 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/top_level_tb.vhd|
+Z162 !s107 C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/top_level_tb.vhd|
+R11
+R12
+!s100 :SXC_FdJBLAoLT2:Ibf9[1
+!i10b 1
+Atb
+R107
+R113
+R62
+R49
+R27
+R1
+R2
+R3
+DEx4 work 12 top_level_tb 0 22 zon9KJB^mHFI^[lKn^dES3
+l41
+L13
+V^2oB@ojT@f[ZQlhzg4d0M1
+R7
+32
+R160
+R161
+R162
+R11
+R12
+!s100 A[Y63VfEjKV=QLR5;JI]o0
+!i10b 1
+Etristate
+Z163 w1480203832
+R1
+R2
+R3
+R4
+Z164 8C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/tristate.vhd
+Z165 FC:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/tristate.vhd
+l0
+L10
+Vb0XgYahfXo>]W04zof_[M2
+R7
+32
+Z166 !s108 1480459031.388000
+Z167 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/tristate.vhd|
+Z168 !s107 C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/tristate.vhd|
+R11
+R12
+!s100 3OWOz^VVn:V]b<PFS55CJ0
+!i10b 1
+Abhv
+R1
+R2
+R3
+R44
+l19
+L18
+VX@X;V9P6AON2BIKzgkReB2
+R7
+32
+R166
+R167
+R168
+R11
+R12
+!s100 =AaKU5XV2_X6Xa[jE=[Ah0
+!i10b 1
+Etristate_tb
+Z169 w1480203843
+R2
+R3
+R4
+Z170 8C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/tristate_tb.vhd
+Z171 FC:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/tristate_tb.vhd
+l0
+L4
+VALJU=[SUSoUZ[LS:HA?i]3
+R7
+32
+Z172 !s108 1480459031.513000
+Z173 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/tristate_tb.vhd|
+Z174 !s107 C:/Users/Mitch/Classes/Fall 2016/EEL 4712_Digital Design/Small8/tristate_tb.vhd|
+R11
+R12
+!s100 ZIfEQcCNmdcHDKQDDZIA>2
+!i10b 1
+Atb
+R1
+R44
+R2
+R3
+DEx4 work 11 tristate_tb 0 22 ALJU=[SUSoUZ[LS:HA?i]3
+l12
+L7
+VP=zC[U:2ZAC8YEm@cNghY0
+!s100 1ngzP6BRIBKLS3]AUOf2T2
+R7
+32
+R172
+R173
+R174
+R11
+R12
+!i10b 1

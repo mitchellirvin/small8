@@ -1,0 +1,33 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+
+entity counter is
+	port(
+		clk, rst, ld, inc, dec : in std_logic;
+		input : in std_logic_vector(15 downto 0);
+		output : out std_logic_vector(15 downto 0)
+	);
+end counter;
+
+architecture bhv of counter is
+	
+	signal temp_count : std_logic_vector(15 downto 0);
+	
+begin
+	process(clk, rst, ld, up)
+	begin
+		if(rst = '1') then
+			temp_count <= (others => '0');
+		elsif(rising_edge(clk)) then
+			if(ld = '1') then
+				temp_count <= input;
+			elsif(up = '1') then
+				temp_count <= std_logic_vector(unsigned(temp_count) + to_unsigned(1,16));
+			elsif(down = '1') then
+				temp_count <= std_logic_vector(unsigned(temp_count) - to_unsigned(1,16));
+			end if;
+		end if;
+	end process;
+	output <= temp_count;
+end bhv;

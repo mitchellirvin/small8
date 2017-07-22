@@ -1,0 +1,21 @@
+--Mitchell Irvin
+--Small8
+--Section: 1525
+--Small8 Top Level Test Bench
+
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+
+entity controller_tb is
+end controller_tb;
+
+architecture tb of controller_tb is
+
+
+
+begin
+
+
+
+end tb; 
